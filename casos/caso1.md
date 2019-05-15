@@ -6,7 +6,7 @@ Você encontrou um zumbi solitário! É sua chance de ter mais informações sob
 
 <details>
   <summary>Ambiente</summary>
-  ### Calçada Tranquila
+  **Calçada Tranquila:**
 
   É de dia. O sol está brilhando na pacata rua residencial, repleta de casas com gramados na frente e garagem interna.
   Em torno do zumbi, não há nenhum elemento perigoso; não há movimentação de carros nem de outros zumbis agressivos.
@@ -14,14 +14,14 @@ Você encontrou um zumbi solitário! É sua chance de ter mais informações sob
 
 <details>
 <summary>Comportamento do Zumbi</summary>
-  ### Mãos na Garganta
+  **Mãos na Garganta:**
 
   O zumbi parece estar emitindo um som de sufocamento (como todos os zumbis?!), e está com as duas mãos em volta da garganta.
 </details>
 
 <details>
   <summary>Corpo do Zumbi</summary>
-  ### Zumbi Comum
+  **Zumbi Comum:**
 
   Não há nada de diferente deste para outros zumbis que você já viu antes:
   sua pele é esverdeada e gosmenta, seus dentes são cinzentos, suas unhas são amarelas, e ele tem feridas por todo o corpo.
