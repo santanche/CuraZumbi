@@ -23,4 +23,4 @@ você ganha uma **medalha**, que indica o nível do seu *heroísmo*.
 
 Seja atencioso e lembre-se: são apenas zumbis! ;)
 
-[VAMOS CURAR!](){: .button}
+[VAMOS CURAR!](casos/caso1.md){: .button}
